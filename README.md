@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartik0323
 
 🌟 Welcome to My GitHub Repository! 🌟
-Hello there! 👋 I'm [Your Name], a passionate UI/UX Designer and Web Developer dedicated to crafting exceptional digital experiences. With a keen eye for design and a love for clean, efficient code, I bridge the gap between functionality and aesthetics to create user-centered solutions that stand out.
+Hello there! 👋 I'm Kartik Poojary, a passionate UI/UX Designer and Web Developer dedicated to crafting exceptional digital experiences. With a keen eye for design and a love for clean, efficient code, I bridge the gap between functionality and aesthetics to create user-centered solutions that stand out.
 
 🎨 About Me
 As a UI/UX Designer, I focus on designing intuitive, user-friendly interfaces that not only look great but also provide a seamless user experience. My expertise includes:
